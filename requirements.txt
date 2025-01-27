@@ -4,3 +4,4 @@ pysal
 splot
 geoplot
 geoviews
+gmap

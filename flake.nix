@@ -30,6 +30,7 @@
                   numpy
                   geopandas
                   geodatasets
+                  googlemaps
                   pyogrio
                   geopy
                   matplotlib
