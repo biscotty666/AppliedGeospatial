@@ -42,6 +42,7 @@
                   xarray
                   rioxarray
                   rasterio
+                  ortools
                 ]))
             ];
           postVenvCreation = ''
